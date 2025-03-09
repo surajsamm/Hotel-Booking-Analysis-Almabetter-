@@ -1,4 +1,11 @@
 # Hotel-Booking-Analysis-Almabetter-
+![image](https://github.com/user-attachments/assets/397d6a2c-1a4a-41a5-a58b-addf613864e6)
+![image](https://github.com/user-attachments/assets/05f5364c-442a-4909-aeb7-11227c07c3f0)
+![image](https://github.com/user-attachments/assets/ac6b0966-b7d3-4a28-95cd-838d6967b7ad)
+![image](https://github.com/user-attachments/assets/2a4ba057-4a8f-4e4c-8f13-9f9875f310e2)
+
+
+
 
 Hotel Booking Analysis Overview
 Booking Trends:
